@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**brunnasf/brunnasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 📚 I’m currently learning Python, SQL and Power BI
+### Olá! Eu sou a Brunna Ferreira 👋
+- 🎲 Estudando Ciência de Dados
+- 📚 Aprendendo Python, SQL and Power BI
